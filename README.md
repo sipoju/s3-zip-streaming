@@ -1,4 +1,4 @@
-# Download files from S3 as stream zip file
+# Download AWS S3 files as streamed zip file
 
 ### Usage
 
